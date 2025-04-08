@@ -2,6 +2,7 @@
 
 A Python tool with PyQt5 GUI to convert subtitle files between different frame rates (23.976, 24, 25, 29.97, 30 fps) with English/Farsi support.
 
+![Screenshot]([screenshot.png](https://github.com/saeedrss/subtitle-converter/releases/download/v1.0/subtitle_converter.exe))
 
 ## Features
 
